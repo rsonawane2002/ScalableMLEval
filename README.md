@@ -1,3 +1,9 @@
+# ScalableMLEval
+Developed a scalable machine learning model evaluation system in PySpark, parallelizing computations across distributed nodes and comparing performance of multiple models on large datasets based on accuracy, precision, and resource utilization metrics
+
+
+
+
 To run, simply do: python3 file_name.py
 
 
