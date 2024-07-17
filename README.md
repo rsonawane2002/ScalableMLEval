@@ -34,12 +34,19 @@ There is a video documenting my findings in the files. Here are charts below des
 
 <img width="731" alt="Screen Shot 2024-07-17 at 4 08 59 PM" src="https://github.com/user-attachments/assets/0946c817-f785-4085-a98f-1586313e8525">
 
+<img width="751" alt="Screen Shot 2024-07-17 at 4 13 25 PM" src="https://github.com/user-attachments/assets/f99d97aa-f050-4d6c-98ef-743fe97207ac">
+
+
 <img width="710" alt="Screen Shot 2024-07-17 at 4 12 04 PM" src="https://github.com/user-attachments/assets/666bf388-4782-451b-9575-e83f11552242">
+
+<img width="728" alt="Screen Shot 2024-07-17 at 4 13 45 PM" src="https://github.com/user-attachments/assets/5bfecac3-67b8-4316-9cef-9c50b819d3a6">
 
 <img width="732" alt="Screen Shot 2024-07-17 at 4 12 28 PM" src="https://github.com/user-attachments/assets/c9e34f48-a310-4b6c-bd4f-6e7d8cd4186f">
 
 
+<img width="744" alt="Screen Shot 2024-07-17 at 4 14 05 PM" src="https://github.com/user-attachments/assets/d6231039-109c-498c-8828-e4c12fd40fee">
 
+<img width="736" alt="Screen Shot 2024-07-17 at 4 14 13 PM" src="https://github.com/user-attachments/assets/d1a475b6-9b6e-4075-bfde-9a7b51502aaf">
 
 <img width="718" alt="Screen Shot 2024-07-17 at 4 09 55 PM" src="https://github.com/user-attachments/assets/b6969582-0c66-4b01-a7d3-d340c3021747">
 
