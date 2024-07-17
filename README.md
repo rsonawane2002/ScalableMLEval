@@ -1,3 +1,9 @@
+# ScalableMLEval
+Developed a scalable machine learning model evaluation system in PySpark, parallelizing computations across distributed nodes and comparing performance of multiple models on large datasets based on accuracy, precision, and resource utilization metrics
+
+
+
+
 To run, simply do: python3 file_name.py
 
 
@@ -21,4 +27,10 @@ If it is executor cores, comment out the sparksessionbuilder at the top that cor
 Then, go to the bottom and comment out the for loop corresponding to the resource you picked as well as the 
 entire pyplot code. This should run the code for every given config on iris.csv and yield a graph of runtime/accuracy for the given config.
 
-Please reach out to me if you have any trouble
+
+Here is a video documenting my results and my analysis: 
+
+<video width="640" height="360" controls>
+  <source src="./ScreenRecording" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
