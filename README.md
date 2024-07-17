@@ -12,6 +12,7 @@ To run, simply do: python3 file_name.py
 3) For neural_net you can add parameter "cancer.csv" for the complex dataset
 
 
+
 Note, I have commented out all the code that generates the plot and also uses PySpark's
 resource allocation/parallelism to save runtime. 
 
@@ -37,7 +38,7 @@ There is a video documenting my findings in the files. Here are charts below des
 <img width="751" alt="Screen Shot 2024-07-17 at 4 13 25 PM" src="https://github.com/user-attachments/assets/f99d97aa-f050-4d6c-98ef-743fe97207ac">
 
 
-<img width="710" alt="Screen Shot 2024-07-17 at 4 12 04 PM" src="https://github.com/user-attachments/assets/666bf388-4782-451b-9575-e83f11552242">
+<img width="752" alt="Screen Shot 2024-07-17 at 4 14 59 PM" src="https://github.com/user-attachments/assets/33bfe42f-52d9-4b2a-b761-6a95b214986d">
 
 <img width="728" alt="Screen Shot 2024-07-17 at 4 13 45 PM" src="https://github.com/user-attachments/assets/5bfecac3-67b8-4316-9cef-9c50b819d3a6">
 
