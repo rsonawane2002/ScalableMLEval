@@ -28,9 +28,24 @@ Then, go to the bottom and comment out the for loop corresponding to the resourc
 entire pyplot code. This should run the code for every given config on iris.csv and yield a graph of runtime/accuracy for the given config.
 
 
-Here is a video documenting my results and my analysis: 
+There is a video documenting my findings in the files. Here are charts below describing the relationships I found:
 
-<video width="640" height="360" controls>
-  <source src="./demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<img width="709" alt="Screen Shot 2024-07-17 at 4 09 29 PM" src="https://github.com/user-attachments/assets/694ec3e7-f00c-4ab3-b574-c8af96ce3d92">
+
+<img width="731" alt="Screen Shot 2024-07-17 at 4 08 59 PM" src="https://github.com/user-attachments/assets/0946c817-f785-4085-a98f-1586313e8525">
+
+<img width="710" alt="Screen Shot 2024-07-17 at 4 12 04 PM" src="https://github.com/user-attachments/assets/666bf388-4782-451b-9575-e83f11552242">
+
+<img width="732" alt="Screen Shot 2024-07-17 at 4 12 28 PM" src="https://github.com/user-attachments/assets/c9e34f48-a310-4b6c-bd4f-6e7d8cd4186f">
+
+
+
+
+<img width="718" alt="Screen Shot 2024-07-17 at 4 09 55 PM" src="https://github.com/user-attachments/assets/b6969582-0c66-4b01-a7d3-d340c3021747">
+
+
+
+
+
+
+
