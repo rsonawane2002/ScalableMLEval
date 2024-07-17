@@ -3,7 +3,6 @@ Developed a scalable machine learning model evaluation system in PySpark, parall
 
 
 
-
 To run, simply do: python3 file_name.py
 
 
@@ -49,7 +48,7 @@ There is a video documenting my findings in the files. Here are charts below des
 
 <img width="736" alt="Screen Shot 2024-07-17 at 4 14 13 PM" src="https://github.com/user-attachments/assets/d1a475b6-9b6e-4075-bfde-9a7b51502aaf">
 
-<img width="718" alt="Screen Shot 2024-07-17 at 4 09 55 PM" src="https://github.com/user-attachments/assets/b6969582-0c66-4b01-a7d3-d340c3021747">
+<img width="747" alt="Screen Shot 2024-07-17 at 4 15 43 PM" src="https://github.com/user-attachments/assets/80d72fbe-f099-45aa-989f-3f68a8d874d0">
 
 
 
